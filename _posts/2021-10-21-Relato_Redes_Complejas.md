@@ -81,6 +81,8 @@ la tecnología, que en ocasiones provocan una niebla en el interior de cada indi
 sociedad. Es impactante como cada bit de información se personifica en los sentimientos de
 un colectivo, conectándonos más allá de lo químico y lo físico.
 
+![Network](https://user-images.githubusercontent.com/68132072/138369487-259e9eff-e636-4ea6-aa92-2e14011c9127.gif)
+
 Por fin llego a mi destino, los muros de metro Copilco conforman un lienzo enorme, en ellos
 se encuentra plasmado El perfil del tiempo, mural que me recuerda la prisa guiada por el latir
 de mi corazón, tengo que correr para llegar a clase, si salgo de aquí a tiempo puedo darme
