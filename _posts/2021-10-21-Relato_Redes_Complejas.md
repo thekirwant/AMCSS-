@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "La cotidianidad de las redes"
+subtitle: "Por Amahury López y Yiatziri" 
 ---
 Suena otra vez el despertador, tan molesto como siempre, como todas las madrugadas me rehuso a abrir los ojos, giro en la cama preparándome 
 para entrar en la realidad de estemundo complejo y abandonar el mundo de la somnolencia, todavía oscura la mañana, la
