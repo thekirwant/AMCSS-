@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "La cotidianidad de las redes"
-subtitle: "Por Amahury López y Yiatziri" 
 ---
+## Por Yiatziri y Amahury
+
 Suena otra vez el despertador, tan molesto como siempre, como todas las madrugadas me rehuso a abrir los ojos, giro en la cama preparándome 
 para entrar en la realidad de estemundo complejo y abandonar el mundo de la somnolencia, todavía oscura la mañana, la
 bombilla de mi cuarto irrita mis pupilas; entro una vez más en este escenario, donde salgo corriendo hacia al metro
@@ -50,9 +51,7 @@ tanto voy calentando por los pasillos, las paredes llenas de viñetas distinguen
 camino, dibujos animados que iluminan los letreros hacia la línea tres; a lo lejos alcanzo a ver
 varios vendedores ambulantes en cada esquina, tienen de todo: golosinas, agua, revistas y
 periódicos. De repente un título de ellos desvía mi vista del camino... 
-La nueva red de aeropuertos revolucionará a la humanidad, 
-
-—y yo viajando en metro —pensé. La pareidolia de mis memorias le da forma a las nubes en
+La nueva red de aeropuertos revolucionará a la humanidad, —y yo viajando en metro —pensé. La pareidolia de mis memorias le da forma a las nubes en
 mi pensamiento, ahora veo una red de Barabási–Albert manifestándose, como una epifanía
 que el destino preparó para mí. Continúo mi camino, en ocasiones la dinámica colectiva de
 las personas se parece a la corriente de un río, aguas turbulentas en las que me siento
