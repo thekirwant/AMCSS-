@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-logo: ![Logo AMCSS](https://user-images.githubusercontent.com/68132072/138371172-5ba68cb9-314c-4539-ac55-1ba82fd6271d.png)
 paginate: 5
 plugins:
 - jekyll-paginate
